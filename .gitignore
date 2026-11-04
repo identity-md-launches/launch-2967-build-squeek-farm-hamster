@@ -1,0 +1,8 @@
+# Path budget: this file stays under 1 KiB; only generated dependencies,
+# tool caches, pinned task inputs and disposable checks are excluded.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/*.tsbuildinfo
+.imd/
+test/scratch/
